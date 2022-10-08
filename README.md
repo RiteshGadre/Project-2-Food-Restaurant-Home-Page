@@ -6,7 +6,7 @@
 
 ![](./images/Project2.jpg)
 
-[Cick Here](https://img.shields.io/badge/Project%202-Deployed-green)
+[Cick Here](https://frabjous-custard-a6c8a4.netlify.app/)
 
 # ![](https://img.shields.io/badge/-Learnings-orange)
 
