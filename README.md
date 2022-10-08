@@ -6,7 +6,7 @@
 
 ![](./images/Project2.jpg)
 
-[Cick Here](https://frabjous-custard-a6c8a4.netlify.app/)
+[Cick Here](https://ritesh-food-restaurant-home-page.netlify.app/)
 
 # ![](https://img.shields.io/badge/-Learnings-orange)
 
